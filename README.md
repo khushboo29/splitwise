@@ -9,6 +9,8 @@ Add a button to pay the debts. Make a note of the amount paid and also note the 
 Once any expense or debt is updated, the same should be reflected to the other users on next login. (Notifications not needed).
 
 ############################################################################################ 
+
+
 #Setting up project and initializing data
 create a virtualenv
 
