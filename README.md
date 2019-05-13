@@ -8,9 +8,8 @@ On clicking the name of each friend, show the details of the expenses added by t
 Add a button to pay the debts. Make a note of the amount paid and also note the time of the same.
 Once any expense or debt is updated, the same should be reflected to the other users on next login. (Notifications not needed).
 
-############################################################################################ API request examples:
-
-Setting up project and initializing data
+############################################################################################ 
+#Setting up project and initializing data
 create a virtualenv
 
 virtualenv env
