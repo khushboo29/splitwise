@@ -11,7 +11,7 @@ Once any expense or debt is updated, the same should be reflected to the other u
 ############################################################################################ 
 
 
-#Setting up project and initializing data
+# Setting up project and initializing data :-
 create a virtualenv
 
 virtualenv env
